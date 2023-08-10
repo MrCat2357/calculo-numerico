@@ -1,0 +1,5 @@
+a=('catulo', 'lanerson', 'caimi')
+b=('bonito', 'feio', 'pokemon')
+c = (1,2,3)
+x = zip(a,b,c)
+print(list(x))
